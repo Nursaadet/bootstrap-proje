@@ -1,8 +1,6 @@
 # Bootstrap Project
 
-Our goal in this project is to create a web page using bootstrap 5 at a basic level.
-Use the photos you found on the internet in the project solution.
-
+This project was coded with Bootstrap and Pure.css to create a website that looks good.The website is fully responsive.
 
 ## Authors
 
@@ -11,7 +9,7 @@ Use the photos you found on the internet in the project solution.
 
 ## 🌐 Demo
 
-[Click to see the project](https://nursaadet.github.io/bootstrap-proje/)
+https://nursaadet.github.io/bootstrap-proje/
 
 ## 📸 Demo GIF
 
@@ -21,5 +19,4 @@ Use the photos you found on the internet in the project solution.
 
 ## 💻 Technologies Used
 
-- **HTML** (HyperText Markup Language)
-- **CSS** (Cascading Style Sheets)
+Client: HTML,CSS,Bootstrap,Fslightbox library
