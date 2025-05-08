@@ -6,7 +6,7 @@ My goal in this project is to create a web page using bootstrap 5 at a basic lev
 
 ## 🌐 Demo
 
-https://nursaadet.github.io/bootstrap-proje/
+https://nursaadet.github.io/bootstrap-project/
 
 
 
